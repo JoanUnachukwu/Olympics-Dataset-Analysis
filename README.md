@@ -17,9 +17,10 @@ _The Olympics continue to be a powerful symbol of the potential and togetherness
 5.	How many nations participated through 120 years? 	
 6.	With the advent of advocating for the gender inclusion, what is the percentage of females to male Olympic participants by 2016?
 
-## Skills/ Concepts demostrated:
+## Skills/ Concepts Demostrated:
 
 The following Power BI features were incorporated
+- Power Query Transformation
 - Bookmarking
 - Page Navigation
 - Filters

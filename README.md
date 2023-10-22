@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a Power BI report of actual data from the Olympic Games over a 120 year period from 1896 - 2016. Thd project is to analyze and derive insights from the overall performance of athletes and countries in 120 years. 
+This is a Power BI report of actual data from the Olympic Games over a 120 year period from 1896 - 2016. The project is to analyze and derive insights from the overall performance of athletes and countries in 120 years. 
 
 _The Olympics continue to be a powerful symbol of the potential and togetherness of people. These Games provide a singular forum where nations lay aside their differences to participate in the spirit of sportsmanship in a world that is becoming more and more divided. The unwavering commitment of athletes who push the limits, encourage the quest of excellence and world peace._
 
@@ -15,7 +15,7 @@ _The Olympics continue to be a powerful symbol of the potential and togetherness
 3.	How many gold medals have been won in 120 years? What country has gotten the most medals?
 4.	At what age bracket do athletes perform optimally/win more medals? 
 5.	How many nations participated through 120 years? 	
-6.	With the advent of advocating for the gender inclusion, what is the percentage of females to male Olympic participants by 2016?
+6.	With the advent of advocating for gender inclusion, what is the percentage of females to male Olympic participants by 2016?
 
 ## Skills/ Concepts Demostrated:
 
